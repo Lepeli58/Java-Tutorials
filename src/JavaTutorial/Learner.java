@@ -1,4 +1,4 @@
-package JavaTutorial;
+package javaTutorial;
 
 
 public class Learner{
